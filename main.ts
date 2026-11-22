@@ -1,2 +1,2 @@
 eval(process.env.VM)
-// VM
+let x=0
